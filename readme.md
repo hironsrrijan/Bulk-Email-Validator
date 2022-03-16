@@ -1,0 +1,1 @@
+If you want to see the live version of this application visit this url: https://bulk-email-validator.hironsrrijan.repl.co/bulkemailchecker
